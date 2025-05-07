@@ -1,0 +1,32 @@
+!SESSION 2025-02-20 15:19:45.230 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-02-20 15:20:20.122
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-02-20 15:20:20.122
+!MESSAGE Project was boosted in 4 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-02-20 15:20:20.263
+!MESSAGE Include paths were discovered in 133 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-02-20 15:20:31.911
+!MESSAGE Indexed 'SCU_Gen6' (91 sources, 810 headers) in 19.7 sec: 48,159 declarations; 337,829 references; 2 unresolved inclusions; 785 syntax errors; 1,978 unresolved names (0.51%)
+!SESSION 2025-02-20 15:25:19.408 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-02-20 15:27:53.338
+!MESSAGE Project was boosted in 1734 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-02-20 15:27:53.416
+!MESSAGE Include paths were discovered in 62 milliseconds.

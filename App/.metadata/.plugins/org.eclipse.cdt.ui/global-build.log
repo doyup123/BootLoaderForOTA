@@ -1,0 +1,1100 @@
+Build started...
+15:27:53 **** Build of configuration Training for project SCU_Gen6 ****
+make --output-sync -j8 all 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Service/Os/Os.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Service/Os/Os.src"  "../Source/5_Bsw/Service/Os/Os.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Service/Os/Os.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Service/SchM/SchM.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Service/SchM/SchM.src"  "../Source/5_Bsw/Service/SchM/SchM.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Service/SchM/SchM.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.src"  "../Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.c
+ 
+Building file: ../Source/4_Cdd/CcpCustom/Rte_CcpCustom.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/4_Cdd/CcpCustom/Rte_CcpCustom.src"  "../Source/4_Cdd/CcpCustom/Rte_CcpCustom.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/4_Cdd/CcpCustom/Rte_CcpCustom.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.c
+ 
+Building file: ../Source/3_EcuAbs/Wdg/EcuAbsWdg.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Wdg/EcuAbsWdg.src"  "../Source/3_EcuAbs/Wdg/EcuAbsWdg.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Wdg/EcuAbsWdg.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.c
+ 
+Building file: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.src"  "../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.c
+ 
+Building file: ../Source/3_EcuAbs/Nvm/EcuAbsNvm.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Nvm/EcuAbsNvm.src"  "../Source/3_EcuAbs/Nvm/EcuAbsNvm.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Nvm/EcuAbsNvm.c
+ 
+Building file: ../Source/3_EcuAbs/Can/CanIf.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Can/CanIf.src"  "../Source/3_EcuAbs/Can/CanIf.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Can/CanIf.c
+ 
+Building file: ../Source/3_EcuAbs/Spi/EcuAbsSpi.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Spi/EcuAbsSpi.src"  "../Source/3_EcuAbs/Spi/EcuAbsSpi.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Spi/EcuAbsSpi.c
+ 
+Building file: ../Source/3_EcuAbs/Mcu/EcuAbsMcu.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Mcu/EcuAbsMcu.src"  "../Source/3_EcuAbs/Mcu/EcuAbsMcu.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Mcu/EcuAbsMcu.c
+ 
+Building file: ../Source/3_EcuAbs/Dio/EcuAbsDio.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Dio/EcuAbsDio.src"  "../Source/3_EcuAbs/Dio/EcuAbsDio.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Dio/EcuAbsDio.c
+ 
+Building file: ../Source/3_EcuAbs/Gpt/EcuAbsGpt.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Gpt/EcuAbsGpt.src"  "../Source/3_EcuAbs/Gpt/EcuAbsGpt.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Gpt/EcuAbsGpt.c
+ 
+Building file: ../Source/3_EcuAbs/Rte_EcuAbs.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Rte_EcuAbs.src"  "../Source/3_EcuAbs/Rte_EcuAbs.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Rte_EcuAbs.c
+ 
+Building file: ../Source/3_EcuAbs/Can/CanIf_Cbk.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Can/CanIf_Cbk.src"  "../Source/3_EcuAbs/Can/CanIf_Cbk.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Can/CanIf_Cbk.c
+ 
+Building file: ../Source/2_App/BswDcm/Rte_BswDcm.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/2_App/BswDcm/Rte_BswDcm.src"  "../Source/2_App/BswDcm/Rte_BswDcm.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/2_App/BswDcm/Rte_BswDcm.c
+ 
+Building file: ../Source/3_EcuAbs/Can/EcuAbsCan.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Can/EcuAbsCan.src"  "../Source/3_EcuAbs/Can/EcuAbsCan.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Can/EcuAbsCan.c
+ 
+Building file: ../Source/0_Rte/Rte.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/0_Rte/Rte.src"  "../Source/0_Rte/Rte.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/0_Rte/Rte.c
+ 
+Building file: ../.metadata/.plugins/org.eclipse.cdt.make.core/specs.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o ".metadata/.plugins/org.eclipse.cdt.make.core/specs.src"  "../.metadata/.plugins/org.eclipse.cdt.make.core/specs.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+ctc W508: ["../.metadata/.plugins/org.eclipse.cdt.make.core/specs.c" 1/1] empty source file
+0 errors, 1 warnings
+Finished building: ../.metadata/.plugins/org.eclipse.cdt.make.core/specs.c
+ 
+Building file: ../Source/2_App/BswCom/Rte_BswCom.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/2_App/BswCom/Rte_BswCom.src"  "../Source/2_App/BswCom/Rte_BswCom.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/2_App/BswCom/Rte_BswCom.c
+ 
+Building file: ../Source/3_EcuAbs/Adc/EcuAbsAdc.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/3_EcuAbs/Adc/EcuAbsAdc.src"  "../Source/3_EcuAbs/Adc/EcuAbsAdc.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/3_EcuAbs/Adc/EcuAbsAdc.c
+ 
+Building file: ../Source/ScuMain.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/ScuMain.src"  "../Source/ScuMain.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/ScuMain.c
+ 
+Building file: ../Source/1_Common/Utility.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "Source/1_Common/Utility.src"  "../Source/1_Common/Utility.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../Source/1_Common/Utility.c
+ 
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.src
+ 
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.src
+ 
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Service/Os/Os.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Service/Os/Os.o" "Source/5_Bsw/Service/Os/Os.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Service/Os/Os.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Service/SchM/SchM.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Service/SchM/SchM.o" "Source/5_Bsw/Service/SchM/SchM.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Service/SchM/SchM.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.src
+ 
+Building file: ../sync_on_halt.c
+Invoking: TASKING C/C++ Compiler
+cctc -D_TASKING_C_TRICORE_ "-fD:/Workspace/AurixDevelopmentStudio/App/SCU_Gen6/Training/TASKING_C_C___Compiler-Include_paths.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc23x -o "sync_on_halt.src"  "../sync_on_halt.c"  -cs --misrac-version=2012 -N0 -Z0 -Y0 2>&1;
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Finished building: ../sync_on_halt.c
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.src
+ 
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.src
+ 
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.src
+ 
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.src
+ 
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.src
+ 
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.src
+ 
+Building file: Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.o" "Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.src
+Invoking: TASKING Assembler
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.src
+Invoking: TASKING Assembler
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.src
+Invoking: TASKING Assembler
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.src
+ 
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.o" "Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.src" --list-format=L1 --optimize=gs
+Finished building: Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/4_Cdd/CcpCustom/Rte_CcpCustom.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/4_Cdd/CcpCustom/Rte_CcpCustom.o" "Source/4_Cdd/CcpCustom/Rte_CcpCustom.src" --list-format=L1 --optimize=gs
+Finished building: Source/4_Cdd/CcpCustom/Rte_CcpCustom.src
+ 
+Building file: Source/3_EcuAbs/Wdg/EcuAbsWdg.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Wdg/EcuAbsWdg.o" "Source/3_EcuAbs/Wdg/EcuAbsWdg.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Wdg/EcuAbsWdg.src
+ 
+Building file: Source/3_EcuAbs/Nvm/EcuAbsNvm.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Nvm/EcuAbsNvm.o" "Source/3_EcuAbs/Nvm/EcuAbsNvm.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Nvm/EcuAbsNvm.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/3_EcuAbs/Spi/EcuAbsSpi.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Spi/EcuAbsSpi.o" "Source/3_EcuAbs/Spi/EcuAbsSpi.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Spi/EcuAbsSpi.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/3_EcuAbs/Gpt/EcuAbsGpt.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Gpt/EcuAbsGpt.o" "Source/3_EcuAbs/Gpt/EcuAbsGpt.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Gpt/EcuAbsGpt.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/3_EcuAbs/Mcu/EcuAbsMcu.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Mcu/EcuAbsMcu.o" "Source/3_EcuAbs/Mcu/EcuAbsMcu.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Mcu/EcuAbsMcu.src
+ 
+Building file: Source/3_EcuAbs/Dio/EcuAbsDio.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Dio/EcuAbsDio.o" "Source/3_EcuAbs/Dio/EcuAbsDio.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Dio/EcuAbsDio.src
+ 
+Building file: Source/3_EcuAbs/Can/CanIf.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Can/CanIf.o" "Source/3_EcuAbs/Can/CanIf.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Can/CanIf.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/3_EcuAbs/Can/EcuAbsCan.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Can/EcuAbsCan.o" "Source/3_EcuAbs/Can/EcuAbsCan.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Can/EcuAbsCan.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/3_EcuAbs/Can/CanIf_Cbk.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Can/CanIf_Cbk.o" "Source/3_EcuAbs/Can/CanIf_Cbk.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Can/CanIf_Cbk.src
+ 
+Building file: Source/3_EcuAbs/Adc/EcuAbsAdc.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Adc/EcuAbsAdc.o" "Source/3_EcuAbs/Adc/EcuAbsAdc.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Adc/EcuAbsAdc.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/3_EcuAbs/Rte_EcuAbs.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/3_EcuAbs/Rte_EcuAbs.o" "Source/3_EcuAbs/Rte_EcuAbs.src" --list-format=L1 --optimize=gs
+Finished building: Source/3_EcuAbs/Rte_EcuAbs.src
+ 
+Building file: Source/2_App/BswCom/Rte_BswCom.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/2_App/BswCom/Rte_BswCom.o" "Source/2_App/BswCom/Rte_BswCom.src" --list-format=L1 --optimize=gs
+Finished building: Source/2_App/BswCom/Rte_BswCom.src
+ 
+Building file: Source/1_Common/Utility.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/1_Common/Utility.o" "Source/1_Common/Utility.src" --list-format=L1 --optimize=gs
+Finished building: Source/1_Common/Utility.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/2_App/BswDcm/Rte_BswDcm.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/2_App/BswDcm/Rte_BswDcm.o" "Source/2_App/BswDcm/Rte_BswDcm.src" --list-format=L1 --optimize=gs
+Finished building: Source/2_App/BswDcm/Rte_BswDcm.src
+ 
+Building file: .metadata/.plugins/org.eclipse.cdt.make.core/specs.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  ".metadata/.plugins/org.eclipse.cdt.make.core/specs.o" ".metadata/.plugins/org.eclipse.cdt.make.core/specs.src" --list-format=L1 --optimize=gs
+Finished building: .metadata/.plugins/org.eclipse.cdt.make.core/specs.src
+ 
+Building file: Source/0_Rte/Rte.src
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/0_Rte/Rte.o" "Source/0_Rte/Rte.src" --list-format=L1 --optimize=gs
+Finished building: Source/0_Rte/Rte.src
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Building file: Source/ScuMain.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Source/ScuMain.o" "Source/ScuMain.src" --list-format=L1 --optimize=gs
+Finished building: Source/ScuMain.src
+ 
+Building file: sync_on_halt.src
+TASKING VX-toolset for AURIX Development Studio (non-commercial): assembler v1.1r8 Build 22011964
+Invoking: TASKING Assembler
+astc -Og -Os --no-warnings= --error-limit=42 -o  "sync_on_halt.o" "sync_on_halt.src" --list-format=L1 --optimize=gs
+Finished building: sync_on_halt.src
+ 
+Building target: SCU_Gen6.elf
+TASKING VX-toolset for AURIX Development Studio (non-commercial): control program v1.1r8 Build 22011964
+Invoking: TASKING Linker
+cctc -lrt -lfp_fpu -lcs_fpu  -Wl-Oc -Wl-OL -Wl-Ot -Wl-Ox -Wl-Oy -Wl--map-file="SCU_Gen6.map" -Wl-mc -Wl-mf -Wl-mi -Wl-mk -Wl-ml -Wl-mm -Wl-md -Wl-mr -Wl-mu --no-warnings= -Wl--error-limit=42 --exceptions --strict --anachronisms --force-c++ -Ctc23x   -o"SCU_Gen6.elf" -Wl-o"SCU_Gen6.hex:IHEX" --lsl-core=vtc  --lsl-file=../SCU_Gen6_Training.lsl  ./Source/5_Bsw/Service/SchM/SchM.o  ./Source/5_Bsw/Service/Os/Os.o  ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.o ./Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.o  ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.o ./Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.o  ./Source/4_Cdd/CcpCustom/Rte_CcpCustom.o  ./Source/3_EcuAbs/Wdg/EcuAbsWdg.o  ./Source/3_EcuAbs/Spi/EcuAbsSpi.o  ./Source/3_EcuAbs/Nvm/EcuAbsNvm.o  ./Source/3_EcuAbs/Mcu/EcuAbsMcu.o  ./Source/3_EcuAbs/Gpt/EcuAbsGpt.o  ./Source/3_EcuAbs/Dio/EcuAbsDio.o  ./Source/3_EcuAbs/Can/CanIf.o ./Source/3_EcuAbs/Can/CanIf_Cbk.o ./Source/3_EcuAbs/Can/EcuAbsCan.o  ./Source/3_EcuAbs/Adc/EcuAbsAdc.o  ./Source/3_EcuAbs/Rte_EcuAbs.o  ./Source/2_App/BswDcm/Rte_BswDcm.o  ./Source/2_App/BswCom/Rte_BswCom.o  ./Source/1_Common/Utility.o  ./Source/0_Rte/Rte.o  ./Source/ScuMain.o  ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o  ./sync_on_halt.o 
+Finished building target: SCU_Gen6.elf
+ 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): ELF size v1.1r8 Build 22011964
+Invoking: Print Size
+elfsize  "SCU_Gen6.elf"
+Total sizes:
+ROM: 0x10bb3 (68531) = code: 0x10310 (66320) + romdata: 0x8a3 (2211)
+RAM: 0xc792 (51090) = data + bss
+Finished building: SCU_Gen6.siz
+ 
+rm Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.src Source/3_EcuAbs/Can/CanIf_Cbk.src Source/3_EcuAbs/Nvm/EcuAbsNvm.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Can_17_MCanP_PBCfg.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_LCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Spi_Irq.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm_Ver.src Source/5_Bsw/Service/Os/Os.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Mcu_PBCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_ConvHandle.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/AscLin_Irq.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Dio_PBCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Ver.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu.src Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_LCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP_Platform.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Gpt_PBCfg.src Source/0_Rte/Rte.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Adc_PBCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.src Source/3_EcuAbs/Spi/EcuAbsSpi.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Hsm_Irq.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/SpiSlave.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.src Source/2_App/BswDcm/Rte_BswDcm.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Ver.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Port_PBCfg.src Source/5_Bsw/Service/SchM/SchM.src Source/4_Cdd/CcpCustom/Rte_CcpCustom.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Gtm_PBCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/wdg/Wdg_17_Scu_Safe.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Fls_Irq.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/ecum/EcuM_Callout_Stubs.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.src Source/3_EcuAbs/Can/CanIf.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/port/Port.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Fee_PBCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_DmaLib.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.src Source/2_App/BswCom/Rte_BswCom.src Source/3_EcuAbs/Wdg/EcuAbsWdg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Spi_PBCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Can_Irq.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Irq.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Dma_Irq.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Platform.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Adc_Irq.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Icu_17_GtmCcu6_PBCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/can/Can_17_MCanP.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Dma.src Source/3_EcuAbs/Mcu/EcuAbsMcu.src Source/3_EcuAbs/Adc/EcuAbsAdc.src Source/3_EcuAbs/Dio/EcuAbsDio.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm_Platform.src Source/ScuMain.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.src .metadata/.plugins/org.eclipse.cdt.make.core/specs.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Ver.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Gtm_Irq.src sync_on_halt.src Source/3_EcuAbs/Can/EcuAbsCan.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Ccu6_Irq.src Source/5_Bsw/Mcal/McalTraining/cfg/src/EcuM_PBCfg.src Source/3_EcuAbs/Gpt/EcuAbsGpt.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/pwm/Pwm_17_Gtm.src Source/3_EcuAbs/Rte_EcuAbs.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Calibration.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/gpt/Gpt_Ver.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Eru_Irq.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Wdg_17_Scu_PBCfg.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/dio/Dio_Ver.src Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_TcLib.src Source/1_Common/Utility.src Source/5_Bsw/Mcal/McalTraining/cfg/src/Fls_17_Pmu_PBCfg.src
