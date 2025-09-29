@@ -37,3 +37,17 @@ OTA를 위해 서스펜션 제어기의 Bootloader를 설계하는 Project
 
 ### 링커스크립트 변경
 <img width="670" height="377" alt="linkerScript" src="https://github.com/user-attachments/assets/a6736060-c42e-4fd0-9187-23c04602366f" />
+
+
+## 3. Binary 위변조 감지
+
+### SHA 256 
+
+- KISA 제공 알고리즘 소스코드
+  - https://seed.kisa.or.kr/kisa/Board/21/detailView.do    
+
+<img width="690" height="160" alt="암호화" src="https://github.com/user-attachments/assets/48ec0ee1-1e7b-4d17-8690-36b5ea9b6895" />
+
+### 결과
+<img width="1318" height="413" alt="SHA 256 결과" src="https://github.com/user-attachments/assets/11fa7780-66b9-40c6-a52e-ddf086e32290" />
+
