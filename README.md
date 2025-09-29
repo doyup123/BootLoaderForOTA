@@ -23,8 +23,7 @@ OTA를 위해 서스펜션 제어기의 Bootloader를 설계하는 Project
 
 ## 1. 리프로그래밍 Sequence
 
-|<img width="883" height="727" alt="리프로그래밍 과정" src="https://github.com/user-attachments/assets/4891bb62-9182-4bb1-ac50-98cc5aa2770f" />|<img width="899" height="495" alt="실제 CAN Data 리프로그래밍 과정 (Intelligent CAN)" src="https://github.com/user-attachments/assets/45c29ca3-7de0-4846-a8a1-0d252a03cc0c" />
-|
+|<img width="883" height="727" alt="리프로그래밍 과정" src="https://github.com/user-attachments/assets/4891bb62-9182-4bb1-ac50-98cc5aa2770f" />|<img width="899" height="495" alt="실제 CAN Data 리프로그래밍 과정 (Intelligent CAN)" src="https://github.com/user-attachments/assets/45c29ca3-7de0-4846-a8a1-0d252a03cc0c" />|
 |-----|-----|
 
 
