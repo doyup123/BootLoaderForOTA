@@ -1,6 +1,6 @@
 OTA를 위한 Bootloader 설계
 ====================
-# 개요
+## 개요
 OTA를 위해 서스펜션 제어기의 Bootloader를 설계하는 Project
 
 |이름|역할|수행 기간|
@@ -17,3 +17,23 @@ OTA를 위해 서스펜션 제어기의 Bootloader를 설계하는 Project
 - TC234LP
 
 <img width="619" height="483" alt="개요" src="https://github.com/user-attachments/assets/8ce1b44f-cebd-4727-8fe7-62d10ed9d7f9" />
+
+## Architecture
+<img width="829" height="504" alt="Architecture" src="https://github.com/user-attachments/assets/021e78de-06eb-42c0-87eb-774b1a28c66c" />
+
+## 1. 리프로그래밍 Sequence
+
+|<img width="883" height="727" alt="리프로그래밍 과정" src="https://github.com/user-attachments/assets/4891bb62-9182-4bb1-ac50-98cc5aa2770f" />|<img width="883" height="727" alt="리프로그래밍 과정" src="https://github.com/user-attachments/assets/c8760b89-f85b-429d-9b05-fcd5472c2ece" />|
+|-----|-----|
+
+
+## 2. 단일 물리적 Flash bank 문제
+
+|문제 식별|해결 방법|
+|---|---|
+|<img width="500" height="289" alt="Trace32" src="https://github.com/user-attachments/assets/91029acf-26be-4de3-8a38-4d17e2e718f0" />|<img width="577" height="399" alt="HTL" src="https://github.com/user-attachments/assets/89de184c-9819-42d2-a51e-58386912e2b3" />|
+
+- TC234LP의 경우 RWW 기능을 지원하지 않아 RAM으로 Erase/Program Code를 이동시켜야함
+
+### 링커스크립트 변경
+<img width="670" height="377" alt="linkerScript" src="https://github.com/user-attachments/assets/a6736060-c42e-4fd0-9187-23c04602366f" />
